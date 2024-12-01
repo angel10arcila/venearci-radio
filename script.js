@@ -12,24 +12,42 @@ const mediaFiles = [
         type: "Fm"
     },
     {
-        name: "Circuito Líder 94.9",
+        name: "Circuito líder 94.9",
         url: "https://stream-162.zeno.fm/pv120nq8e8zuv?zs=1T27FKTDRC-SQ7vEVXLvCA",
         type: "Fm"
     },
     {
-        name: "Onda La Super Estación",
+        name: "Onda La super estación 107.9",
         url: "https://acp4.lorini.net/proxy/ur2060?mp=/stream",
         type: "Fm"
     },
     { 
-        name: "Unión Radio",
+        name: "Unión radio 90.3",
         url: "https://acp4.lorini.net/proxy/ur2080?mp=/stream",
         type: "Fm"
     },
     
     { 
-        name: "La Mega",
+        name: "La mega 107.3",
         url: "https://acp4.lorini.net/proxy/ur2050?mp=/stream",
+        type: "Fm"
+    },
+    
+    { 
+        name: "Circuito éxitos 99.9",
+        url: "https://acp4.lorini.net/proxy/ur2070?mp=/stream",
+        type: "Fm"
+    },
+
+   { 
+        name: "Deportivisima 91.5",
+        url: "https://sp.panelchs.com/8066/stream",
+        type: "Fm"
+    }, 
+    
+    { 
+        name: "Talento 102.7",
+        url: "https://cloudstream2036.conectarhosting.com/8232/stream",
         type: "Fm"
     },
    
