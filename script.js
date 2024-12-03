@@ -47,7 +47,7 @@ const mediaFiles = [
     
     { 
         name: "Talento 102.7",
-        url: "https://cloudstream2036.conectarhosting.com/8232/stream",
+        url: "https://cloudstream2036.conectarhosting.com/8398/stream",
         type: "Fm"
     },
    
