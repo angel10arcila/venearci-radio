@@ -6,6 +6,12 @@ const mediaFiles = [
         url: "https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8?p",
         type: "Tv"
     },
+    
+    {
+        name: "Wapa Deportes",
+        url: "https://live.field59.com/wapa/wapa2/playlist.m3u8?p",
+        type: "Tv"
+    },
     { 
         name: "Activa 104.9",
         url: "",
