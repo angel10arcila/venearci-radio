@@ -5,8 +5,7 @@ const mediaFiles = [
         name: "Tv Familia",
         url: "https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8?p",
         type: "Tv"
-    },
-    
+    }, 
     {
         name: "Gran turísmo - GT",
         url: "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/01722/62l9p5cjutfy_,n,h,x,.urlset/master.m3u8?t=YCRjzMwGZ6uxOxKq3eHelhVHfRMiSyRctXZ4bxi9V7c&s=1740515682&e=129600&f=42571369&srv=kxbg0h85dae8&i=0.4&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=8048",
