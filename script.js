@@ -2,8 +2,8 @@
 const mediaFiles = [
     
     {
-        name: "Venearci",
-        url: "",
+        name: "Tv Familia",
+        url: "https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8?p",
         type: "Fm"
     },
     { 
