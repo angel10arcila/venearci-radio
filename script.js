@@ -8,7 +8,7 @@ const mediaFiles = [
     }, 
     {
         name: "Gran turísmo - GT",
-        url: "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/01722/62l9p5cjutfy_,n,h,x,.urlset/index-f1-a2.m3u8?t=EGnyIav1mrv7uQpLFDdsrE1YTpnCK9enTYPu-9dHsj8&s=1740516463&e=129600&f=42571369&srv=kxbg0h85dae8&i=0.4&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=8048",
+        url: "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/01722/62l9p5cjutfy_,n,h,x,.urlset/index-f1-v1-a2.m3u8?t=jH5uMgqE0zQpAe2uDiA9FcRK4sq5ZM6h9qViTZticzI&s=1740517530&e=129600&f=42571369&srv=kxbg0h85dae8&i=0.4&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=8048",
         type: "Movies"
     },
     { 
