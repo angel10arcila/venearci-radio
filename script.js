@@ -4,8 +4,14 @@ const mediaFiles = [
     {
         name: "Tv Familia",
         url: "https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8?p",
+        type: "Tv"
+    },
+    { 
+        name: "Activa 104.9",
+        url: "",
         type: "Fm"
     },
+    
     { 
         name: "Guaraña 97.5",
         url: "https://sp.wnetserver.com/8016/stream",
