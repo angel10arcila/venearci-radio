@@ -8,10 +8,9 @@ const mediaFiles = [
     },
     { 
         name: "Activa 104.9",
-        url: "",
+        url: "https://stream-150.zeno.fm/t31pbasum7zuv?zs=YZf30L3bQU2O2ubbISeTHQ",
         type: "Fm"
     },
-    
     { 
         name: "Guaraña 97.5",
         url: "https://sp.wnetserver.com/8016/stream",
