@@ -8,7 +8,7 @@ const mediaFiles = [
     },
     { 
         name: "Activa 104.9",
-        url: "https://stream-150.zeno.fm/t31pbasum7zuv?zs=YZf30L3bQU2O2ubbISeTHQ",
+        url: "https://stream-150.zeno.fm/t31pbasum7zuv?zs=YZf30L3bQU2O2ubbISeTH",
         type: "Fm"
     },
     { 
