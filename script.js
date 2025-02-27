@@ -10,12 +10,7 @@ const mediaFiles = [
         name: "DirecTV",
         url: "https://florcd.pricesaskeloadsc.com/global/dsports/index.m3u8?token=85e2f6f06967c07fd44f4fa295f5a25d20db2fbb-10-1740701370-1740668970",
         type: "Tv"
-    },
-    {
-        name: "ANT3",
-        url: "http://hls.webredirect.org/48590/mp_9367.php/https://atres-live.atresmedia.com/7184adaddebc12b9c661112219283db932d498d0_ES_1740666890_1740695630/h264leg/live/antena3/bitrate_2.m3u8",
-        type: "Tv"
-    },  
+    }, 
     {
         name: "Gran turísmo - GT",
         url: "https://2goita23a7njj.premilkyway.com/hls2/01/01722/62l9p5cjutfy_,n,h,x,.urlset/index-f1-v1-a2.m3u8?t=_lm0fhIklEop6Qqk7uwso7iCnyQtj7_dkM-rh8OOE4Q&s=1740674569&e=129600&f=42571369&srv=kxbg0h85dae8&i=0.4&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=8048",
