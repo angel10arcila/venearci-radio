@@ -8,9 +8,14 @@ const mediaFiles = [
     },   
     {
         name: "Venevisión",
-        url: " https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8?p",
+        url: "",
         type: "Tv"
-    }, 
+    },
+        {
+        name: "A3S",
+        url: "http://hls.webredirect.org/48590/mp_9367.php/https://atres-live.atresmedia.com/c439c6f728e6b73945d986197341b5f474bf6733_ES_1740658678_1740687418/h264leg/live/a3series/bitrate_2.m3u8",
+        type: "Tv"
+    },  
     {
         name: "Gran turísmo - GT",
         url: "https://2goita23a7njj.premilkyway.com/hls2/01/01722/62l9p5cjutfy_,n,h,x,.urlset/index-f1-v1-a2.m3u8?t=_lm0fhIklEop6Qqk7uwso7iCnyQtj7_dkM-rh8OOE4Q&s=1740674569&e=129600&f=42571369&srv=kxbg0h85dae8&i=0.4&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=8048",
