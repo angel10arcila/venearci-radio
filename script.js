@@ -6,12 +6,6 @@ const mediaFiles = [
         url: "https://1654596987.rsc.cdn77.org:443/1654596987/tracks-v1a1/mono.m3u8?p",
         type: "Tv"
     },
-    
-    {
-        name: "DirecTV",
-        url: "https://florcd.pricesaskeloadsc.com/global/dsports/index.m3u8?token=85e2f6f06967c07fd44f4fa295f5a25d20db2fbb-10-1740701370-1740668970",
-        type: "Tv"
-    },
     {
         name: "Gran turísmo - GT",
         url: "https://2goita23a7njj.premilkyway.com/hls2/01/01722/62l9p5cjutfy_,n,h,x,.urlset/index-f1-v1-a2.m3u8?t=_lm0fhIklEop6Qqk7uwso7iCnyQtj7_dkM-rh8OOE4Q&s=1740674569&e=129600&f=42571369&srv=kxbg0h85dae8&i=0.4&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=8048",
