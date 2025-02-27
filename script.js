@@ -7,8 +7,8 @@ const mediaFiles = [
         type: "Tv"
     },   
     {
-        name: "Venevisión",
-        url: "https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8",
+        name: "DirecTV",
+        url: "https://florcd.pricesaskeloadsc.com/global/dsports/index.m3u8?token=85e2f6f06967c07fd44f4fa295f5a25d20db2fbb-10-1740701370-1740668970",
         type: "Tv"
     },
     {
