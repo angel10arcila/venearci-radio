@@ -8,10 +8,10 @@ const mediaFiles = [
     },   
     {
         name: "Venevisión",
-        url: "",
+        url: "https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8",
         type: "Tv"
     },
-        {
+    {
         name: "A3S",
         url: "http://hls.webredirect.org/48590/mp_9367.php/https://atres-live.atresmedia.com/c439c6f728e6b73945d986197341b5f474bf6733_ES_1740658678_1740687418/h264leg/live/a3series/bitrate_2.m3u8",
         type: "Tv"
