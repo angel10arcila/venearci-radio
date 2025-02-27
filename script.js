@@ -2,8 +2,8 @@
 const mediaFiles = [
     
     {
-        name: "Tv Familia",
-        url: "https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8?p",
+        name: "Wt",
+        url: "https://1654596987.rsc.cdn77.org:443/1654596987/tracks-v1a1/mono.m3u8?p",
         type: "Tv"
     }, 
     {
