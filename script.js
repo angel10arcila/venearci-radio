@@ -2,7 +2,7 @@
 const mediaFiles = [
     
     {
-        name: "Wt",
+        name: "Ewnt",
         url: "https://1654596987.rsc.cdn77.org:443/1654596987/tracks-v1a1/mono.m3u8?p",
         type: "Tv"
     }, 
