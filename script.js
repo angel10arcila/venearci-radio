@@ -12,8 +12,8 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "A3S",
-        url: "http://hls.webredirect.org/48590/mp_9367.php/https://atres-live.atresmedia.com/c439c6f728e6b73945d986197341b5f474bf6733_ES_1740658678_1740687418/h264leg/live/a3series/bitrate_2.m3u8",
+        name: "ANT3",
+        url: "http://hls.webredirect.org/48590/mp_9367.php/https://atres-live.atresmedia.com/7184adaddebc12b9c661112219283db932d498d0_ES_1740666890_1740695630/h264leg/live/antena3/bitrate_2.m3u8",
         type: "Tv"
     },  
     {
