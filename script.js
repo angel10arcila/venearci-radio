@@ -6,6 +6,12 @@ const mediaFiles = [
         url: "https://1654596987.rsc.cdn77.org:443/1654596987/tracks-v1a1/mono.m3u8?p",
         type: "Tv"
     },
+    
+    {
+        name: "Tvfamilia",
+        url: "https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8?p",
+        type: "Tv"
+    },
     {
         name: "Gran turísmo - GT",
         url: "https://jturq6cd3wcv.premilkyway.com/hls2/01/01722/62l9p5cjutfy_,n,h,x,.urlset/index-f1-a2.m3u8?t=GoiOEV3xNN4O9PjKVBD7hiosRGSfvNCArlwaHjGU0p8&s=1741217070&e=129600&f=42571369&srv=meuzahgd24x5v&i=0.4&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=8048",
