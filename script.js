@@ -11,11 +11,6 @@ const mediaFiles = [
         url: "https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8?p",
         type: "Tv"
     },
-    {
-        name: "Gran turísmo - GT",
-        url: "https://x8oi6owwkjoewr.premilkyway.com/hls2/01/01722/62l9p5cjutfy_,n,h,x,.urlset/index-f1-a2.m3u8?t=RcVj9mJdpbRj9vraEfoc3cjoV_ROevLdnLLOU1DDOms&s=1741808786&e=129600&f=42571369&srv=jtkd5kf4kett&i=0.4&sp=500&p1=jtkd5kf4kett&p2=jtkd5kf4kett&asn=8048",
-        type: "Movies"
-    },
     { 
         name: "Activa 104.9",
         url: "https://stream-150.zeno.fm/t31pbasum7zuv?zs=YZf30L3bQU2O2ubbISeTHQ",
