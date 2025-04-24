@@ -9,8 +9,8 @@ const mediaFiles = [
     },  
     
     {
-        name: "Ewnt",
-        url: "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
+        name: "Mlb",
+        url: "https://linear-843.frequency.stream/mt/studio/843/hls/master/playlist.m3u8",
         type: "Tv"
         //https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
     },
