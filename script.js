@@ -7,14 +7,7 @@ const mediaFiles = [
         type: "Fm"
         //https://stream-150.zeno.fm/t31pbasum7zuv?zs=YZf30L3bQU2O2ubbISeTHQ
     },  
-    
-    {
-        name: "Mlb",
-        url: "https://linear-843.frequency.stream/mt/studio/843/hls/master/playlist.m3u8",
-        type: "Tv"
-        //https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-    },
-    
+     
     {
         name: "Tvfamilia",
         url: "https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8?p",
