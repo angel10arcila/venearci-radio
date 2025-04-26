@@ -12,6 +12,13 @@ const mediaFiles = [
         url: "https://sp.wnetserver.com/8016/stream",
         type: "Fm"
     },
+    
+    { 
+        name: "Lasser 97.7",
+        url: " https://server6.globalhostla.com:8010/stream",
+        type: "Fm"
+    },
+
     {
         name: "Circuito líder 94.9",
         url: "https://stream-162.zeno.fm/pv120nq8e8zuv?zs=1T27FKTDRC-SQ7vEVXLvCA",
