@@ -99,18 +99,13 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "Novelas Tircas",
+        name: "Novelas Turcas",
         url: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088",
         type: "Tv"
     },
     {
         name: "Televisa Novelas",
         url: "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?p",
-        type: "Tv"
-    },
-    {
-        name: "Azteca Internacional",
-        url: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397",
         type: "Tv"
     },
     {
@@ -121,16 +116,6 @@ const mediaFiles = [
     {
         name: "Show Ven",
         url: "https://vcp.myplaytv.com/coll/coll/playlist.m3u8?p",
-        type: "Tv"
-    },
-    {
-        name: "Vepacotv",
-        url: "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8?p",
-        type: "Tv"
-    },
-    {
-        name: "Vale tv",
-        url: "https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8",
         type: "Tv"
     },
     {
