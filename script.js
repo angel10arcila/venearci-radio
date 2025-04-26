@@ -64,6 +64,15 @@ const mediaFiles = [
         url: "https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8?p",
         type: "Tv"
     },
+
+    
+    {
+        name: "Anzoátegui Tv",
+        url: "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8?p",
+        type: "Tv"
+    },
+
+    //https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
    
 ];
 
