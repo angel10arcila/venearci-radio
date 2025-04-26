@@ -11,14 +11,12 @@ const mediaFiles = [
         name: "Guaraña 97.5",
         url: "https://sp.wnetserver.com/8016/stream",
         type: "Fm"
-    },
-    
+    },   
     { 
         name: "Lasser 97.7",
         url: " https://server6.globalhostla.com:8010/stream",
         type: "Fm"
     },
-
     {
         name: "Circuito líder 94.9",
         url: "https://stream-162.zeno.fm/pv120nq8e8zuv?zs=1T27FKTDRC-SQ7vEVXLvCA",
@@ -33,47 +31,38 @@ const mediaFiles = [
         name: "Unión radio 90.3",
         url: "https://acp4.lorini.net/proxy/ur2080?mp=/stream",
         type: "Fm"
-    },
-    
+    },    
     { 
         name: "La mega 107.3",
         url: "https://acp4.lorini.net/proxy/ur2050?mp=/stream",
         type: "Fm"
-    },
-    
+    },    
     { 
         name: "Circuito éxitos 99.9",
         url: "https://acp4.lorini.net/proxy/ur2070?mp=/stream",
         type: "Fm"
     },
-
    { 
         name: "Deportivisima 91.5",
         url: "https://sp.panelchs.com/8066/stream",
         type: "Fm"
     }, 
-    
     { 
         name: "Talento 102.7",
         url: "https://cloudstream2036.conectarhosting.com/8398/stream",
         type: "Fm"
     },
-    
     {
         name: "Tvfamilia",
         url: "https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8?p",
         type: "Tv"
     },
-
-    
     {
         name: "Anzoátegui Tv",
         url: "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8?p",
         type: "Tv"
     },
-
-    
-    {
+   {
         name: "Stadium Tv",
         url: "https://bcovlive-a.akamaihd.net/77f552c75f084189959f8a7e54d87700/us-east-1/5994000126001/playlist.m3u8?p",
         type: "Tv"
