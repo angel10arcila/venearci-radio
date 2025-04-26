@@ -72,8 +72,14 @@ const mediaFiles = [
         type: "Tv"
     },
 
-    //https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
-   
+    
+    {
+        name: "Stadium Tv",
+        url: "https://bcovlive-a.akamaihd.net/77f552c75f084189959f8a7e54d87700/us-east-1/5994000126001/playlist.m3u8?p",
+        type: "Tv"
+    },
+
+    //https://bcovlive-a.akamaihd.net/77f552c75f084189959f8a7e54d87700/us-east-1/5994000126001/playlist.m3u8
 ];
 
 let currentTrack = 0;
