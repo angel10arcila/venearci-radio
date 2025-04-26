@@ -100,50 +100,42 @@ const mediaFiles = [
     },
     {
         name: "Novelas Tircas",
-        url: "
-"https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088",
+        url: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088",
         type: "Tv"
     },
     {
         name: "Televisa Novelas",
-        url: "
-"https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?p",
+        url: "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?p",
         type: "Tv"
     },
     {
         name: "Azteca Internacional",
-        url: "
-"https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397",
+        url: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397",
         type: "Tv"
     },
     {
         name: "Punta Cana Tv",
-        url: "
-"https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8",
+        url: "https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8",
         type: "Tv"
     },
     {
         name: "Show Ven",
-        url: "
-"https://vcp.myplaytv.com/coll/coll/playlist.m3u8?p",
+        url: "https://vcp.myplaytv.com/coll/coll/playlist.m3u8?p",
         type: "Tv"
     },
     {
         name: "Vepacotv",
-        url: "
-"https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8?p",
+        url: "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8?p",
         type: "Tv"
     },
     {
         name: "Vale tv",
-        url: "
-"https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8",
+        url: "https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8",
         type: "Tv"
     },
     {
         name: "Dierctv Sports",
-        url: "
-"https://cdn12.vivozytv.com/hotflix/dsports/index.m3u8?token=fab205efc1df9d231f013f78cbb7e12df264c650-73d5344db1bd39f1527dc1993b69436b-1745699471-1745688671&remote=201.211.5.148",
+        url: "https://cdn12.vivozytv.com/hotflix/dsports/index.m3u8?token=fab205efc1df9d231f013f78cbb7e12df264c650-73d5344db1bd39f1527dc1993b69436b-1745699471-1745688671&remote=201.211.5.148",
         type: "Tv"
     },
 ];
