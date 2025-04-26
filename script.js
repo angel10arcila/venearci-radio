@@ -67,8 +67,85 @@ const mediaFiles = [
         url: "https://bcovlive-a.akamaihd.net/77f552c75f084189959f8a7e54d87700/us-east-1/5994000126001/playlist.m3u8?p",
         type: "Tv"
     },
-
-    //https://bcovlive-a.akamaihd.net/77f552c75f084189959f8a7e54d87700/us-east-1/5994000126001/playlist.m3u8
+    
+   {
+        name: "Red Bull Tv",
+        url: "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?p",
+        type: "Tv"
+    },
+    {
+        name: "Tve",
+        url: "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_576.m3u8?p",
+        type: "Tv"
+    },
+    {
+        name: "Star Tve",
+        url: "https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8?p",
+        type: "Tv"
+    },
+    {
+        name: "MovieFe",
+        url: "https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?p",
+        type: "Tv"
+    },
+    {
+        name: "DW Español",
+        url: "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?p",
+        type: "Tv"
+    },
+    {
+        name: "Amc",
+        url: "https://d38fxgxhpllpfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/playlist.m3u8?p",
+        type: "Tv"
+    },
+    {
+        name: "Novelas Tircas",
+        url: "
+"https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088",
+        type: "Tv"
+    },
+    {
+        name: "Televisa Novelas",
+        url: "
+"https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?p",
+        type: "Tv"
+    },
+    {
+        name: "Azteca Internacional",
+        url: "
+"https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397",
+        type: "Tv"
+    },
+    {
+        name: "Punta Cana Tv",
+        url: "
+"https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8",
+        type: "Tv"
+    },
+    {
+        name: "Show Ven",
+        url: "
+"https://vcp.myplaytv.com/coll/coll/playlist.m3u8?p",
+        type: "Tv"
+    },
+    {
+        name: "Vepacotv",
+        url: "
+"https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8?p",
+        type: "Tv"
+    },
+    {
+        name: "Vale tv",
+        url: "
+"https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8",
+        type: "Tv"
+    },
+    {
+        name: "Dierctv Sports",
+        url: "
+"https://cdn12.vivozytv.com/hotflix/dsports/index.m3u8?token=fab205efc1df9d231f013f78cbb7e12df264c650-73d5344db1bd39f1527dc1993b69436b-1745699471-1745688671&remote=201.211.5.148",
+        type: "Tv"
+    },
 ];
 
 let currentTrack = 0;
