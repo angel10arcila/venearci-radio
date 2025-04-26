@@ -1,16 +1,6 @@
 // Configuración de medios predefinidos
 const mediaFiles = [
     
-    {
-        name: "Ewnt",
-        url: "https://1654596987.rsc.cdn77.org:443/1654596987/tracks-v1a1/mono.m3u8?p",
-        type: "Tv"
-    },
-    {
-        name: "Tvfamilia",
-        url: "https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8?p",
-        type: "Tv"
-    },
     { 
         name: "Activa 104.9",
         url: "https://stream-150.zeno.fm/t31pbasum7zuv?zs=YZf30L3bQU2O2ubbISeTHQ",
@@ -60,6 +50,12 @@ const mediaFiles = [
         name: "Talento 102.7",
         url: "https://cloudstream2036.conectarhosting.com/8398/stream",
         type: "Fm"
+    },
+    
+    {
+        name: "Tvfamilia",
+        url: "https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8?p",
+        type: "Tv"
     },
    
 ];
