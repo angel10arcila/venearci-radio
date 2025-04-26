@@ -67,7 +67,6 @@ const mediaFiles = [
         url: "https://bcovlive-a.akamaihd.net/77f552c75f084189959f8a7e54d87700/us-east-1/5994000126001/playlist.m3u8?p",
         type: "Tv"
     },
-    
    {
         name: "Red Bull Tv",
         url: "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?p",
@@ -96,11 +95,6 @@ const mediaFiles = [
     {
         name: "Amc",
         url: "https://d38fxgxhpllpfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/playlist.m3u8?p",
-        type: "Tv"
-    },
-    {
-        name: "Novelas Turcas",
-        url: "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088",
         type: "Tv"
     },
     {
