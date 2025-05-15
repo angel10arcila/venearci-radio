@@ -52,6 +52,12 @@ const mediaFiles = [
         url: "https://cloudstream2036.conectarhosting.com/8398/stream",
         type: "Fm"
     },
+    
+    { 
+        name: "Mega Latina 97.9",
+        url: "https://server6.globalhostla.com:8066/stream",
+        type: "Fm"
+    },
    ];
 
 let currentTrack = 0;
