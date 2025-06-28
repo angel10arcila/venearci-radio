@@ -46,7 +46,13 @@ const mediaFiles = [
         name: "La mega 107.3",
         url: "https://acp4.lorini.net/proxy/ur2050?mp=/stream",
         type: "Fm"
-    },    
+    },   
+    {
+        name: "La X 89.7",
+        url: "http://cp2.lorini.net:39500/;",
+        type: "Fm"
+        
+    },
     { 
         name: "Circuito éxitos 99.9",
         url: "https://acp4.lorini.net/proxy/ur2070?mp=/stream",
