@@ -59,6 +59,11 @@ const mediaFiles = [
         type: "Fm"
     },
     {
+        name: "Calle 98.9",
+        url: "https://streaming.supermezclashosting.com/8502/stream/1/",
+        type: "Fm"
+    },
+    {
         name:"Entre Panas",
         url: "https://streaming.produccionesvanessa.com:8054/stream/1/",
         type: "Fm"
