@@ -39,7 +39,7 @@ const mediaFiles = [
     },  
     {
         name: "Hot 94.1",
-        url"https://server6.globalhostla.com:9016/stream",
+        url: "https://server6.globalhostla.com:9016/stream",
         type: "Fm"
     },
     { 
