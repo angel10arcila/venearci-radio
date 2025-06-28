@@ -53,6 +53,11 @@ const mediaFiles = [
         type: "Fm"
         
     },
+    {
+        name: "La X 89.7",
+        url: "https://vcp9.myplaytv.com/circuitox/circuitox/playlist.m3u8",
+        type: "Fm"
+    },
     { 
         name: "Circuito éxitos 99.9",
         url: "https://acp4.lorini.net/proxy/ur2070?mp=/stream",
