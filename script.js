@@ -69,6 +69,11 @@ const mediaFiles = [
         type: "Fm"
     },
     {
+        name: "Autentik 100.7",
+        url: "https://server6.globalhostla.com:9228/stream",
+        type: "Fm"
+    },
+    {
         name: "Calle 98.9",
         url: "https://streaming.supermezclashosting.com/8502/stream/1/",
         type: "Fm"
