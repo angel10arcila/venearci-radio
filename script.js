@@ -58,6 +58,11 @@ const mediaFiles = [
         url: "https://server6.globalhostla.com:8066/stream",
         type: "Fm"
     },
+    {
+        name:"Entre Panas",
+        url: "https://streaming.produccionesvanessa.com:8054/stream/1/",
+        type: "Fm"
+    },
    ];
 
 let currentTrack = 0;
