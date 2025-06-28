@@ -83,6 +83,12 @@ const mediaFiles = [
         url: "https://streaming.produccionesvanessa.com:8054/stream/1/",
         type: "Fm"
     },
+    {
+        name: "Wepale 99.9",
+        url: "http://servers58.com:8900/stream",
+        type: "Fm"
+        
+    },
    ];
 
 let currentTrack = 0;
