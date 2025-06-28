@@ -100,6 +100,18 @@ const mediaFiles = [
         type: "Fm"
         
     },
+    {
+        name: "Puro llano radio",
+        url: "https://laradiossl.online:10122/stream/;type=mp3",
+        type: "Fm"
+        
+    },
+    {
+        name: "Joropomania",
+        url: "https://radio.hostlagarto.com/joroporadio/stream",
+        type: "Fm"
+    },
+    
    ];
 
 let currentTrack = 0;
