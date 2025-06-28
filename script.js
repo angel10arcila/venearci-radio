@@ -49,7 +49,7 @@ const mediaFiles = [
     },   
     {
         name: "La X 89.7",
-        url: "http://cp2.lorini.net:39500/stream?type=http&nocache=203",
+        url: "https://acp2.lorini.net:39500/stream",
         type: "Fm"
         
     },
