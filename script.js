@@ -18,6 +18,11 @@ const mediaFiles = [
         type: "Fm"
     },
     {
+        name: "Ven-fm",
+        url: "https://acp2.lorini.net:20214/stream",
+        type: "Fm"
+    },
+    {
         name: "Circuito líder 94.9",
         url: "https://stream-162.zeno.fm/pv120nq8e8zuv?zs=1T27FKTDRC-SQ7vEVXLvCA",
         type: "Fm"
