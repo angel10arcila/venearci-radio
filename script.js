@@ -36,7 +36,12 @@ const mediaFiles = [
         name: "Unión radio 90.3",
         url: "https://acp4.lorini.net/proxy/ur2080?mp=/stream",
         type: "Fm"
-    },    
+    },  
+    {
+        name: "Hot 94.1",
+        url"https://server6.globalhostla.com:9016/stream",
+        type: "Fm"
+    },
     { 
         name: "La mega 107.3",
         url: "https://acp4.lorini.net/proxy/ur2050?mp=/stream",
