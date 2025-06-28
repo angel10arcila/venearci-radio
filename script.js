@@ -96,7 +96,7 @@ const mediaFiles = [
     },
     {
         name: "Wepale 99.9",
-        url: "http://servers58.com:8900/stream",
+        url: "https://servers58.com/proxy/wepale?mp=/stream",
         type: "Fm"
         
     },
