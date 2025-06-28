@@ -64,6 +64,11 @@ const mediaFiles = [
         type: "Fm"
     },
     {
+        name: "Activa 88.9",
+        url: "https://stream.zeno.fm/w3gzdxagmh0tv",
+        type: "Fm"
+    },
+    {
         name: "Calle 98.9",
         url: "https://streaming.supermezclashosting.com/8502/stream/1/",
         type: "Fm"
