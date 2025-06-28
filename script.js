@@ -117,6 +117,11 @@ const mediaFiles = [
         type: "Fm"
     },
     {
+        name: "Beat 305 fm",
+        url: "https://stream-173.zeno.fm/tydspw381rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0eWRzcHczODFyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkNZb2hOaVhpUUVDNy1hRF9BbmJxUVEiLCJpYXQiOjE3NTExNDA1OTcsImV4cCI6MTc1MTE0MDY1N30.-6LXN8vfmmkWyWyfRJ6l8udw2yrcmMxVWVuKNJOEbKg",
+        type: "Fm"
+    },
+    {
         name: "Miami Stereos",
         url: "http://streaming.radio.co/sc4288dc84/listen",
         type: "Fm"
