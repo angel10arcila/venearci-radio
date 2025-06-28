@@ -116,6 +116,11 @@ const mediaFiles = [
         url: "https://radio.hostlagarto.com/joroporadio/stream",
         type: "Fm"
     },
+    {
+        name: "RCN Radio",
+        url: "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/627c1c39637d89088290f64d/playlist.m3u8?listeningSessionID=68123ac4c44f16b6_5113788_qfOostEE_dXMtYjQtcC1lLWNnMTEtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000005rKyz&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=KdkeFF9epa0V92TgVDmF40CaeHmCOi4T&sid=SrA4Kpxc8Y5DA7MZMbdI5R0O7Ymicn2s&pid=NmKEUiHQIItLBHpisqvomnKV6XEDZ25Z&ref=www.rcnradio.com&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1751225343603&ot=_KoL_AjMBChxjQooTpjSRQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=La%20basica&liveId=627c1c39637d89088290f64d&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=La%20basica&propertyType=web-app&propertyVersion=v1.0.21&listenerId=KdkeFF9epa0V92TgVDmF40CaeHmCOi4T",
+        type: "Fm"
+    },
     
    ];
 
